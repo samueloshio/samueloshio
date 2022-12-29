@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samueloshio
 - 👀 I’m interested in Python for Data Science and Fullsatck MERN Deveops
-- 🌱 I’m currently learning NodeJS & Express 
+- 🌱 I’m currently open to Data Analysis with Python, SQL, NodeJS & Express 
 - 💞️ I’m looking to collaborate on Marketplace MERN Development
 - 📫 I'm available here oshebase@gmail.com
 
