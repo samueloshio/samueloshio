@@ -1,6 +1,6 @@
----
+```
 title:  "Hi, I'm Samuel Oshio" 
----
+```
 
 - 👋 Hi, I’m @samueloshio
 - 👀 I’m interested in Data Science with Python and MERN Deveopment
