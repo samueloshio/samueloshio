@@ -1,5 +1,5 @@
 ---
-title:  "Hi, I'm Samuel Oshio" ![](https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d)  
+title:  "Hi, I'm Samuel Oshio" ![](https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif) 
 ---
 
 - 👋 Hi, I’m @samueloshio
