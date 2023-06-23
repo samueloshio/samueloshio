@@ -6,7 +6,7 @@ Open to collaborating on interesting and innovative projects.</p>
 
 <div align="center" >
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oshio/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueloshio5@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oshio/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueloshio5@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samueloshio)
 
 </div>
 
@@ -14,17 +14,15 @@ Open to collaborating on interesting and innovative projects.</p>
 
 <div align="left" >
   
-[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/samueloshio) [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio)
+[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/samueloshio) [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/samueloshio) [![Bash](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio)
 
 </div>
 
-- 👋 Hi, I’m @samueloshio
-- 👀 I’m interested in Data Science with Python and MERN Deveopment
-- 🌱 I’m currently open to Data Analysis with Python, SQL, NodeJS & Express 
-- 💞️ I’m looking to collaborate on Marketplace MERN Development
-- 📫 I'm available here oshebase@gmail.com
+<a href="https://github.com/samueloshio"></a><p style="margin-top: 0px;">ML/DL </p>
 
-<!---
-samueloshio/samueloshio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="left" >
+  
+[![Pandas](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/samueloshio) [![Numpy](https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/samueloshio) [![Scikit Learn](https://img.shields.io/badge/scikit_learn-323330?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio) [![TensorFlow](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+</div>
+
