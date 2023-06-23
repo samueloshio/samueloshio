@@ -1,12 +1,12 @@
-<h2 align="center" style="margin-top: 0px;">Hi, Welcome to my page! <img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Hi" align="top-center" /> </h2>
+<h2 align="center" style="margin-top: 0px;">Hi, Welcome to my page! <img width="35" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Hi" align="top-center" /> </h2>
 
-<p align="center" style="margin-top: 0px;">I'm Samuel Oshio</p>
+<p align="center" style="margin-top: 0px;">I'm Samuel</p>
 <p align="center" style="margin-top: 0px;">Currently learning to walk in ML/DL without falling on my bottom. <br>
 Open to collaborating on interesting and innovative projects.</p>
 
 <div align="center" >
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/samueloshio)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oshio/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueloshio5@gmail.com)
 
 </div>
 
