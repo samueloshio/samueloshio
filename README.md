@@ -14,7 +14,7 @@ Open to collaborating on interesting and innovative projects.</p>
 
 <div align="left" >
   
-[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/samueloshio) [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/samueloshio) [![Bash](https://img.shields.io/badge/Shell_Script-323330?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/samueloshio) [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/samueloshio) [![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio)
 
 </div>
 
@@ -22,7 +22,7 @@ Open to collaborating on interesting and innovative projects.</p>
 
 <div align="left" >
   
-[![Pandas](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/samueloshio) [![Numpy](https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/samueloshio) [![Scikit Learn](https://img.shields.io/badge/scikit_learn-323330?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio) [![TensorFlow](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/samueloshio) [![Scipy](https://img.shields.io/badge/SciPy-323330?style=for-the-badge&logo=SciPy&logoColor=white)](https://github.com/samueloshio) [![Matplotlib](https://img.shields.io/badge/Matplotlib-323330?style=for-the-badge&logo=plotly&logoColor=white)(https://github.com/samueloshio)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/samueloshio) [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/samueloshio) [![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/samueloshio) [![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://github.com/samueloshio) [![Matplotlib](https://img.shields.io/badge/Matplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/samueloshio)
 
 </div>
 
