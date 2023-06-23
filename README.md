@@ -18,11 +18,26 @@ Open to collaborating on interesting and innovative projects.</p>
 
 </div>
 
-<a href="https://github.com/samueloshio"></a><p style="margin-top: 0px;">ML/DL </p>
+<a href="https://github.com/samueloshio"></a><p font-style="b" style="margin-top: 0px;">ML/DL </p>
 
 <div align="left" >
   
-[![Pandas](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/samueloshio) [![Numpy](https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/samueloshio) [![Scikit Learn](https://img.shields.io/badge/scikit_learn-323330?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio) [![TensorFlow](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/samueloshio) [![Numpy](https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/samueloshio) [![Scikit Learn](https://img.shields.io/badge/scikit_learn-323330?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio) [![TensorFlow](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/samueloshio) [![Scipy](https://img.shields.io/badge/SciPy-323330?style=for-the-badge&logo=SciPy&logoColor=white)](https://github.com/samueloshio) [![Matplotlib](https://img.shields.io/badge/Matplotlib-323330?style=for-the-badge&logo=plotly&logoColor=white)(https://github.com/samueloshio)
 
 </div>
 
+<a href="https://github.com/samueloshio"></a><p font-style="b" style="margin-top: 0px;">Technologies & Frameworks </p>
+
+<div align="left" >
+  
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/samueloshio) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/samueloshio) [![HTMl](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/samueloshio) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/samueloshio) [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/samueloshio)
+
+</div>
+
+<a href="https://github.com/samueloshio"></a><p font-style="b" style="margin-top: 0px;">OS </p>
+
+<div align="left" >
+  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/samueloshio) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/samueloshio) 
+
+</div>
