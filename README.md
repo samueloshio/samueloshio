@@ -1,4 +1,8 @@
-<h1 align="center" style="margin-top: 0px;">Hi, <img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Hi" align="center" /> </h1>
+<h2 align="center" style="margin-top: 0px;">Hi, Welcome to my page! <img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Hi" align="top-center" /> </h2>
+
+<hp align="center" style="margin-top: 0px;">I'm Samuel Oshio</p>
+<p align="center" style="margin-top: 0px;">Material Bread</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/samueloshio)
 
 - 👋 Hi, I’m @samueloshio
 - 👀 I’m interested in Data Science with Python and MERN Deveopment
