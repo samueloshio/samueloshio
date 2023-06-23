@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top: 0px;">Hi,</h1> <img width="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Hi" align="center" /> 
+<h1 align="center" style="margin-top: 0px;">Hi, <img width="100" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Hi" align="center" /> </h1>
 
 - 👋 Hi, I’m @samueloshio
 - 👀 I’m interested in Data Science with Python and MERN Deveopment
