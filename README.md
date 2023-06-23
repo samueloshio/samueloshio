@@ -14,7 +14,7 @@ Open to collaborating on interesting and innovative projects.</p>
 
 <div align="left" >
   
-[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)])(https://github.com/samueloshio) [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio)
+[![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/samueloshio) [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/samueloshio) [![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/samueloshio)
 
 </div>
 
