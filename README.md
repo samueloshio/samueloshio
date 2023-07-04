@@ -1,6 +1,6 @@
 <h2 align="center" style="margin-top: 0px;">Hi, Welcome to my page! <img width="30" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Hi" align="top-center" /> </h2>
 
-<p fontsize="15px" align="center" style="margin-top: 0px;"><b>I'm Samuel</b></p>
+<p fontsize="30px" align="center" style="margin-top: 0px;"><b>I'm Samuel</b></p>
 <p align="center" style="margin-top: 0px;">Currently learning to walk in ML/DL without falling on my bottom. <br>
 Open to collaborating on interesting and innovative projects.</p>
 
