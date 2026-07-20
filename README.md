@@ -1,6 +1,6 @@
 # Samuel Oriaifo Oshio
 
-**Software Engineer — Backend · Full-Stack · AI**
+**Software Engineer • Backend • Full-Stack • AI Systems**
 
 I build and ship production software across **fintech, AI, education, marketplaces, and developer platforms**. Mathematics background, 10+ years turning ideas into reliable, deployed systems — from backend APIs and data pipelines to LLM-powered agents.
 
