@@ -70,8 +70,7 @@ Much of my recent work is maintained in **private or client-owned codebases**. R
 
 ### GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samueloshio&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloshio&layout=compact&hide_border=true)
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=samueloshio&show=issues_closed)](https://bit.ly/gh-readme-profile)
 
 ---
 
