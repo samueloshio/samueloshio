@@ -2,7 +2,7 @@
 
 **Software Engineer • Backend • Full-Stack • AI Systems**
 
-I build and ship production software across **fintech, AI, education, marketplaces, and developer platforms**. Mathematics background, 10+ years turning ideas into reliable, deployed systems — from backend APIs and data pipelines to LLM-powered agents.
+I build and ship production software across **fintech, AI, education, healthcare, marketplaces, and developer platforms**. Mathematics background, 10+ years turning ideas into reliable, deployed systems — from backend APIs and data pipelines to LLM-powered agents.
 
 Much of my recent work is maintained in **private or client-owned codebases**. Reusable tools and open-source components are published here when appropriate — so what's public is a sample, not the whole picture.
 
@@ -18,7 +18,7 @@ Much of my recent work is maintained in **private or client-owned codebases**. R
 
 - **Backend engineering** — designing and shipping APIs, services, and microservices in Node.js, Go, Python, and PHP/Laravel.
 - **AI engineering** — LLM-powered features and autonomous agents with LangGraph and PydanticAI (RAG, tool use, orchestration).
-- **Data engineering** — ETL/ELT pipelines and analytics with Apache Airflow, dbt, and GCP.
+- **Data engineering** — ETL/ELT pipelines and analytics with Apache Airflow, dbt, GCP, AWS and Azure.
 - **Cloud & DevOps** — containerized, CI/CD-driven delivery on Docker and Linux.
 - **Mentoring** — teaching and levelling up the developers I work with.
 
