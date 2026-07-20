@@ -85,4 +85,4 @@ Telemedicine platform connecting veterinarians with animal owners via real-time 
 
 ---
 
-_Open to backend, full-stack, and AI engineering roles — remote or Abuja-based. Let's build something._
+_Open to backend, AI, and platform engineering roles. Let's build something._
