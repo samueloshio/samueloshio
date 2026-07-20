@@ -1,8 +1,8 @@
 # Samuel Oriaifo Oshio
 
-**Software Engineer • Backend • Full-Stack • AI Systems**
+**Software Engineer & Architect • Backend • Full-Stack • AI Systems • Developer Platforms**
 
-I build and ship production software across **fintech, AI, education, healthcare, marketplaces, and developer platforms**. Mathematics background, 10+ years turning ideas into reliable, deployed systems — from backend APIs and data pipelines to LLM-powered agents.
+I build and ship production software across **fintech, AI, education, healthcare, marketplaces, and developer platforms** with a focus on software architecture, distributed systems, and clean API design. Mathematics background, 10+ years turning ideas into reliable, deployed systems; from backend APIs and data pipelines to LLM-powered agents.
 
 Much of my recent work is maintained in **private or client-owned codebases**. Reusable tools and open-source components are published here when appropriate — so what's public is a sample, not the whole picture.
 
@@ -16,55 +16,66 @@ Much of my recent work is maintained in **private or client-owned codebases**. R
 
 ### What I do
 
-- **Backend engineering** — designing and shipping APIs, services, and microservices in Node.js, Go, Python, and PHP/Laravel.
-- **AI engineering** — LLM-powered features and autonomous agents with LangGraph and PydanticAI (RAG, tool use, orchestration).
-- **Data engineering** — ETL/ELT pipelines and analytics with Apache Airflow, dbt, GCP, AWS and Azure.
-- **Cloud & DevOps** — containerized, CI/CD-driven delivery on Docker and Linux.
-- **Mentoring** — teaching and levelling up the developers I work with.
+- **Software architecture & system design** — distributed systems, API contracts, composable/modular platforms.
+- **Backend engineering** — Go, Node.js, Python, and PHP/Laravel services and microservices.
+- **AI engineering** — LLM-powered features and autonomous agents with LangGraph, PydanticAI, MCP, and n8n (incl. voice/call agents).
+- **Cloud & DevOps** — AWS, Azure, GCP, Docker, Terraform, and CI/CD.
+- **Technical leadership** — architecture ownership, mentoring, and agile delivery.
+
+---
+
+### Featured projects
+
+**🏛️ [Acthur](https://github.com/acthurhq/acthur)** — *Runtime Graph OS (open source, Go)*
+Models an entire stack as a live directed graph: typed API contracts between services, pluggable framework adapters, one-command deploys, and an MCP server that exposes the live graph to AI tools. A foundation for scalable SaaS, marketplaces, and enterprise products.
+
+**🧩 [Glyphux](https://github.com/glyphux/glyphux)** — *Composable, Self-Hosted Application Platform (open source, Go)*
+Build websites, portals, and apps by composing content, layout, and capabilities through one typed, versioned composition contract — then self-host on a single Go binary with no managed-cloud dependency. Headless CMS core, plugin/extension system, RBAC, content versioning, localization, media pipeline, and a visual layout builder; SQLite or Postgres. In active development.
+
+**📈 Xeroqe** — *Autonomous AI Trading Platform (private)*
+AI trading-intelligence platform using autonomous agents for financial-market analysis and automation.
+
+**🐾 [VetAngle Solutions](https://staging.vetanglesolutions.com/)** — *Healthcare Telemedicine (client-owned)*
+Telemedicine platform connecting veterinarians with animal owners via real-time consultations, scheduling, and emergency support. `PHP/Laravel` · `Vue/Inertia` · `PostgreSQL` · `Docker`
 
 ---
 
 ### Tech stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend & AI**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-**Data, Cloud & DevOps**
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 **Frontend**
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
-
-### Featured open-source projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**coovas-crypto-wallet-system-api**](https://github.com/samueloshio/coovas-crypto-wallet-system-api) | Cryptocurrency wallet & exchange backend | Node.js · Express · Sequelize · MySQL |
-| [**coovas-crypto-wallet-system-ui**](https://github.com/samueloshio/coovas-crypto-wallet-system-ui) | Wallet & exchange frontend | Next.js · React · SCSS |
-| [**oakbite-api**](https://github.com/samueloshio/oakbite-api) | Multivendor food e-commerce REST API | Node.js · Express · MongoDB |
-| [**estore-analytics**](https://github.com/samueloshio/estore-analytics) | E-commerce data engineering pipeline | Airflow · dbt · Metabase · Docker · GCP |
+**Data, Cloud & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
